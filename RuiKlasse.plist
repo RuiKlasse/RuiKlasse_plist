@@ -11,7 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://58.129.42.12:80/upload/RuiKlasse.ipa</string>
+					<string>http://172.28.90.143/app_update/Ruiklasse_2.0.246_0606.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>http://172.28.90.143/app_update/Ruiklasse57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>http://172.28.90.143/app_update/Ruiklasse512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.nec.ruiklasse.RuiKlasse</string>
 				<key>bundle-version</key>
-				<string>2.0.100</string>
+				<string>2.0.246</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
@@ -29,3 +41,4 @@
 	</array>
 </dict>
 </plist>
+
